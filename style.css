@@ -18,7 +18,7 @@ body {
   height: 100vh;
   font-family: "Lato", sans-serif;
   margin: 0;
-  background-color: salmon;
+  background-color: Whitesmoke;
 }
 
 .draggable-list {
@@ -94,4 +94,5 @@ body {
 
 .check-btn:focus {
   outline: none;
+
 }
